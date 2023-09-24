@@ -9,7 +9,7 @@ from movies_scraper import search_movies, get_movie
 
 
 TOKEN = os.getenv("6390653793:AAFpElMvfA18qkg2MiXHqoMM8FlUYkbTZh0")
-URL = "https://t.me/Hindi_movies_villa"
+URL = "https://t.me/movies_villa_chammel"
 bot = Bot(TOKEN)
 
 
